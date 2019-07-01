@@ -43,4 +43,5 @@
 ----
 * mail:i@cdxy.me  
 
-  
+----
+20190701 自己新增几个poc在script目录下 struts2-046、 coremail、seeyon（可批量getshell）、jboss0626
